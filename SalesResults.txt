@@ -1,0 +1,4 @@
+Sales Results
+----------------------------
+Total sales amount: $168145.36
+Execution time: 0.000468 seconds

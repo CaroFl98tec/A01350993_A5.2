@@ -1,0 +1,8 @@
+TC1 Total Sales: $0.00
+TC1 Execution Time: 0.000364 seconds
+TC2 Total Sales: $0.00
+TC2 Execution Time: 0.000376 seconds
+TC3 Total Sales: $0.00
+TC3 Execution Time: 0.000438 seconds
+
+Total Execution Time: 0.001178 seconds
